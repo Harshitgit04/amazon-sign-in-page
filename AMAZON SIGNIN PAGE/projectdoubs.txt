@@ -1,0 +1,4 @@
+1. email password ke boxes pe click krne pr bhar ka colour how to change
+3. hr tag vali horizontal line ko dono ends se vanishing kse kre ya us line ko style kse kre apne according
+4. how to change the colour jha pe cndtns of use , prvcy ntc help etc likha h .. actual page pe vha ka colour 
+    greyish type h so how can we change it 
